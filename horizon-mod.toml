@@ -1,0 +1,8 @@
+id = "musicplayer"
+name = "Music Player"
+version = "1.0.0"
+description = "A music player. A 1:1 Rust port of MC-U-Team/Music-Player (Apache-2.0 (c) 2024 U-Team); this build carries the core client logic: config, settings + managers, playlists, the playing-queue state machine and the track manager, with the audio decode/streaming layer and the GUI screens as documented later slices."
+authors = ["U-Team", "sparticle"]
+api = "0.2"
+side = "client"
+capabilities = ["registries"]

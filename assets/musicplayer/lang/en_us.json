@@ -1,0 +1,17 @@
+{
+  "setting.musicplayer.volume": "Volume",
+  "setting.musicplayer.repeat": "Repeat",
+  "option.musicplayer.repeat.no": "No repeat",
+  "option.musicplayer.repeat.playlist": "Repeat playlist",
+  "option.musicplayer.repeat.single": "Repeat single track",
+  "setting.musicplayer.shuffle": "Shuffle",
+  "setting.musicplayer.show_ingame_overlay": "Show ingame overlay",
+  "setting.musicplayer.show_ingame_menue_overlay": "Show ingame menu overlay",
+  "setting.musicplayer.ingame_overlay_position": "Ingame overlay position",
+  "option.musicplayer.overlay_position.up_left": "Up left",
+  "option.musicplayer.overlay_position.up_right": "Up right",
+  "option.musicplayer.overlay_position.down_right": "Down right",
+  "option.musicplayer.overlay_position.down_left": "Down left",
+  "setting.musicplayer.key_work_in_gui": "Key works in GUI",
+  "setting.musicplayer.internal_playlists": "Internal playlists"
+}
